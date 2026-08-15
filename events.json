@@ -61,5 +61,40 @@
       "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/drx_hacksp/event3.jpeg",
       "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/drx_hacksp/event4.jpeg"
     ]
+  },
+  "TESTE": {
+    "id": "3",
+    "status": "upcoming",
+    "name": "TESTE",
+    "translations": {
+      "pt": {
+        "date": "teste",
+        "location": "teste",
+        "description": "teste",
+        "locationDescription": "teste"
+      },
+      "en": {
+        "date": "test",
+        "location": "test",
+        "description": "test",
+        "locationDescription": "test"
+      }
+    },
+    "stats": {
+      "participants": "17",
+      "projects": "4",
+      "duration": "15"
+    },
+    "photos": [
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/3/banner.svg"
+    ],
+    "locationPhotos": [
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/3/banner.svg"
+    ],
+    "websiteUrl": "teste",
+    "registrationUrl": "teste",
+    "googleMapsUrl": "teste",
+    "videoUrl": "teste",
+    "bannerUrl": "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/3/banner.svg"
   }
 }

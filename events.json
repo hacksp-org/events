@@ -34,20 +34,18 @@
     "id": "drx",
     "status": "past",
     "name": "DRX by Hack SP",
-    "bannerUrl": "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/drx_hacksp/drx_banner.jpg",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taqtile%20Sumar%C3%A9%20S%C3%A3o%20Paulo%20SP",
     "translations": {
       "pt": {
         "date": "28 de Fevereiro de 2026",
-        "location": "Taqtile — Sumaré, São Paulo, SP",
-        "locationDescription": "Local: Taqtile, no bairro Sumaré (São Paulo, SP).",
-        "description": "Em parceria com Dr. Consulta, Hack SP lança seu novo hackathon para adolescentes: DRX. Nosso próximo grande evento está chegando! Prepare-se para 12 horas de pura criação, aprendizado e pizzas."
+        "location": "Taqtile, São Paulo",
+        "description": "Em parceria com Dr. Consulta e Taqtile, fizemos o DRX. Recebemos João Terra (Fundação Estudar), Rodrigo Terro, diversos membros do time do Dr. Consulta como Paulo Yoo (CTO), membros da Taqtile como Edmar Miyake (Founder) e outras figuras do mundo de startups.",
+        "locationDescription": "Local: Taqtile, no bairro Sumaré (São Paulo, SP)."
       },
       "en": {
         "date": "February 28th, 2026",
         "location": "Taqtile - Sumaré, São Paulo, Brazil",
-        "locationDescription": "Venue: Taqtile, in the Sumaré neighborhood (São Paulo).",
-        "description": "In partnership with Dr. Consulta, Hack SP launches its new hackathon for teenagers: DRX. Our next big event is coming soon! Get ready for 12 hours of pure creation, learning, and pizza."
+        "description": "In partnership with Dr. Consulta and Taqtile, we created DRX. We hosted João Terra (Fundação Estudar), Rodrigo Terro, various members of the Dr. Consulta team—such as Paulo Yoo (CTO)—members of Taqtile—such as Edmar Miyake (Founder)—and other figures from the startup world.",
+        "locationDescription": "Venue: Taqtile, in the Sumaré neighborhood (São Paulo)."
       }
     },
     "stats": {
@@ -60,6 +58,8 @@
       "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/drx_hacksp/event2.jpeg",
       "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/drx_hacksp/event3.jpeg",
       "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/drx_hacksp/event4.jpeg"
-    ]
+    ],
+    "bannerUrl": "https://raw.githubusercontent.com/hacksp-org/events/main/assets/events/drx/DSC00957.jpg",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taqtile%20Sumar%C3%A9%20S%C3%A3o%20Paulo%20SP"
   }
 }

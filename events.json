@@ -63,9 +63,11 @@
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taqtile%20Sumar%C3%A9%20S%C3%A3o%20Paulo%20SP"
   },
   "foton-noic": {
-    "id": "12",
+    "id": "foton-noic",
     "status": "upcoming",
     "name": "Fóton Refratar (São Paulo) | NOIC & Hack SP",
+    "registrationUrl": "https://account.hacksp.org/attend/eventos/foton-noic",
+    "bannerUrl": "https://cdn.hacksp.org/events/foton/banner.png",
     "translations": {
       "pt": {
         "date": "13 de dezembro de 2026",
@@ -78,7 +80,6 @@
         "description": "Photon is a science and technology hackathon for teenagers organized by Hack SP in partnership with NOIC"
       }
     },
-    "photos": [],
-    "bannerUrl": "https://cdn.hacksp.org/events/foton/banner.png"
+    "photos": []
   }
 }

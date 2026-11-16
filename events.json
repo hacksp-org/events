@@ -78,6 +78,7 @@
         "description": "Photon is a science and technology hackathon for teenagers organized by Hack SP in partnership with NOIC"
       }
     },
-    "photos": []
+    "photos": [],
+    "bannerUrl": "https://cdn.hacksp.org/events/foton/banner.png"
   }
 }
